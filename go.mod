@@ -5,11 +5,11 @@ require (
 	github.com/OneOfOne/xxhash v1.2.8
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
 	github.com/edgexfoundry/go-mod-bootstrap/v2 v2.0.0-dev.42
-	github.com/edgexfoundry/go-mod-configuration/v2 v2.0.0-dev.7
+	github.com/edgexfoundry/go-mod-configuration/v2 v2.0.0-dev.8
 	github.com/edgexfoundry/go-mod-core-contracts/v2 v2.0.0-dev.78
 	github.com/edgexfoundry/go-mod-messaging/v2 v2.0.0-dev.11
-	github.com/edgexfoundry/go-mod-registry/v2 v2.0.0-dev.5
-	github.com/edgexfoundry/go-mod-secrets/v2 v2.0.0-dev.19
+	github.com/edgexfoundry/go-mod-registry/v2 v2.0.0-dev.7
+	github.com/edgexfoundry/go-mod-secrets/v2 v2.0.0-dev.20
 	github.com/fxamacker/cbor/v2 v2.2.0
 	github.com/gomodule/redigo v2.0.0+incompatible
 	github.com/google/uuid v1.2.0
