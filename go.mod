@@ -2,10 +2,10 @@ module github.com/edgexfoundry/edgex-go
 
 require (
 	github.com/eclipse/paho.mqtt.golang v1.4.2
-	github.com/edgexfoundry/go-mod-bootstrap/v3 v3.0.0-dev.34
+	github.com/edgexfoundry/go-mod-bootstrap/v3 v3.0.0-dev.36
 	github.com/edgexfoundry/go-mod-configuration/v3 v3.0.0-dev.6
 	github.com/edgexfoundry/go-mod-core-contracts/v3 v3.0.0-dev.22
-	github.com/edgexfoundry/go-mod-messaging/v3 v3.0.0-dev.11
+	github.com/edgexfoundry/go-mod-messaging/v3 v3.0.0-dev.13
 	github.com/edgexfoundry/go-mod-secrets/v3 v3.0.0-dev.8
 	github.com/fxamacker/cbor/v2 v2.4.0
 	github.com/golang-jwt/jwt/v4 v4.5.0
@@ -27,7 +27,7 @@ require (
 	github.com/armon/go-metrics v0.3.10 // indirect
 	github.com/cenkalti/backoff v2.2.1+incompatible // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
-	github.com/edgexfoundry/go-mod-registry/v3 v3.0.0-dev.3 // indirect
+	github.com/edgexfoundry/go-mod-registry/v3 v3.0.0-dev.5 // indirect
 	github.com/fatih/color v1.9.0 // indirect
 	github.com/go-kit/log v0.2.1 // indirect
 	github.com/go-logfmt/logfmt v0.5.1 // indirect
@@ -54,7 +54,7 @@ require (
 	github.com/mitchellh/go-homedir v1.1.0 // indirect
 	github.com/mitchellh/mapstructure v1.5.0 // indirect
 	github.com/mitchellh/reflectwalk v1.0.2 // indirect
-	github.com/nats-io/nats.go v1.23.0 // indirect
+	github.com/nats-io/nats.go v1.24.0 // indirect
 	github.com/nats-io/nkeys v0.3.0 // indirect
 	github.com/nats-io/nuid v1.0.1 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
